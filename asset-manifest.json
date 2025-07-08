@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hari-343/multilingual-app.git/static/css/main.0618aa87.css",
+    "main.js": "/hari-343/multilingual-app.git/static/js/main.1b74bfef.js",
+    "static/js/453.a980bf3a.chunk.js": "/hari-343/multilingual-app.git/static/js/453.a980bf3a.chunk.js",
+    "index.html": "/hari-343/multilingual-app.git/index.html",
+    "main.0618aa87.css.map": "/hari-343/multilingual-app.git/static/css/main.0618aa87.css.map",
+    "main.1b74bfef.js.map": "/hari-343/multilingual-app.git/static/js/main.1b74bfef.js.map",
+    "453.a980bf3a.chunk.js.map": "/hari-343/multilingual-app.git/static/js/453.a980bf3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0618aa87.css",
+    "static/js/main.1b74bfef.js"
+  ]
+}
